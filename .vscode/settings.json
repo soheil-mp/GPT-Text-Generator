@@ -1,0 +1,13 @@
+{
+    "nvidia-smi-plus.view.gpuItems": [
+        "product_name",
+        "gpu_temp",
+        "gpu_util",
+        "fan_speed",
+        "memory_util",
+        "memory_total",
+        "memory_free",
+        "memory_used",
+        "memory_used_percent"
+    ]
+}
